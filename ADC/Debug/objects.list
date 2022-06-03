@@ -1,0 +1,8 @@
+"Lab_Drivers/sources/ADC.o"
+"Lab_Drivers/sources/GPIO.o"
+"Lab_Drivers/sources/Keypad.o"
+"Lab_Drivers/sources/interrupts.o"
+"src/main.o"
+"src/syscalls.o"
+"src/system_stm32f4xx.o"
+"startup/startup_stm32.o"
